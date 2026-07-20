@@ -7,8 +7,9 @@
 ### What I do
 
 - **Manage projects and programs** - planning, scheduling, and delivery, with a hands-on eye for where a tool can remove the friction.
-- **Build local-first apps** - desktop and web tools in Python and a light web layer, with no cloud dependency so data stays on the machine.
-- **Apply AI pragmatically** - transcription and diarization, document processing, market intelligence, and schedule analysis, using local models where it counts.
+- **Build local-first apps** - desktop and web tools in Python and a light web layer; local-first by default, so data stays on the machine.
+- **Connect tools and APIs** - I enjoy wiring systems together and integrating services through their APIs to automate the repetitive parts.
+- **Work with LLMs, local and hosted** - I prototype and test against local models first, then reach for larger cloud models when a task calls for it. So far: transcription and diarization, document processing, market intelligence, and schedule analysis.
 
 ### Featured projects
 
@@ -22,7 +23,7 @@ More tools - project planning, schedule-health analysis, and a market-intelligen
 
 ### Tech I reach for
 
-`Python` · `pywebview` · `Flask` · `Leaflet` · local LLMs (`Ollama`) · Windows automation (`COM`) · `HTML/CSS/JS`
+`Python` · `pywebview` · `Flask` · `REST APIs & integrations` · LLMs, local + hosted (`Ollama` and cloud) · `Leaflet` · Windows automation (`COM`) · `HTML/CSS/JS`
 
 ### Get in touch
 
