@@ -1,6 +1,6 @@
 # Hi, I'm Joey 👋
 
-**Project manager and builder.** I run projects end to end and build the practical AI, automation, and data tools that make them work better. My focus is turning a messy real-world workflow into a small, reliable tool that just works - and, wherever possible, runs entirely on your own machine.
+**AI engineer and project manager.** I build practical, local-first AI, automation, and integration tools - and run the projects around them. My focus is turning a messy real-world workflow into a small, reliable tool that just works, and, wherever possible, runs entirely on your own machine.
 
 ---
 
